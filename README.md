@@ -5,123 +5,83 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Hongming Wang</h1></summary>
   </ul>
 </div>
 
+## My Profile Website:
+[![Website](https://img.shields.io/badge/website-hongming--wang.com-red
+)](https://www.hongming-wang.com/)
+ 
+## About Me:    
+I'm Hongming Wang, a game/web developer. I have a passion
+for creating games and websites that are both fun and engaging. I
+have experience working with a variety of technologies, including
+Unity, Unreal Engine, React, and Node.js. I'm always looking
+for new challenges and opportunities to learn and grow as a
+developer.
+   
+## Tech Stack
+<div>
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+### Tech Stack For Game Development:
+| Unity  | C# | PhotoShop |
+|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title=""  alt="" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/csharp-original.svg" title=""  alt="" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/photoshop-original.svg" title="" alt="" width="55" height="55"/> 
+
+  ### Tech Stack For Web Development:
+| NextJs | React | TS | JS  | Redux | 
+|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title=""  alt="" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title=""  alt="" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title=""  alt="" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title=""  alt="" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title=""  alt="" width="55" height="55"/>|
 
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
-
-
-<!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
-
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
-<!--Intro end-->
+| SASS | AWS | Stripe | Builder.io | MongoDB |
+|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title=""  alt="" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title=""  alt="" width="55" height="55"/>|  <img src="https://images.ctfassets.net/fzn2n1nzq965/HTTOloNPhisV9P4hlMPNA/cacf1bb88b9fc492dfad34378d844280/Stripe_icon_-_square.svg" title=""  alt="" width="55" height="55"/>|  <img src="https://avatars.githubusercontent.com/u/35700027" title=""  alt="" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title=""  alt="" width="55" height="55"/>|
 
 
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
+| NodeJs | Express | Framer motion | Vercel | Prisma |
+|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title=""  alt="" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title=""  alt="" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/framermotion/framermotion-original.svg" title=""  alt="" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title=""  alt="" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title=""  alt="" width="55" height="55"/>|
+
+
+
+---
+
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
-  </a>
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=rabbitblood&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+---
 
-<!--icons and links-->
+
+
 <p align="center">
-<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=rabbitblood&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbitblood&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
 
 
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
+---
+
+<p align="center">
+  <img width="400" height="200" src="https://leetcard.jacoblin.cool/leetcode?theme=dark">
+</p>
 
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
+---
 
-Last Edited on: 29/4/2023
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+
+
+---
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
