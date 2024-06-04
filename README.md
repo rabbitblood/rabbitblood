@@ -27,7 +27,7 @@ developer.
 ### Tech Stack For Game Development:
 | Unity  | C# | PhotoShop |
 |----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title=""  alt="" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/csharp-original.svg" title=""  alt="" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/photoshop-original.svg" title="" alt="" width="55" height="55"/> 
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title=""  alt="" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title=""  alt="" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="" alt="" width="55" height="55"/> 
 
   ### Tech Stack For Web Development:
 | NextJs | React | TS | JS  | Redux | 
