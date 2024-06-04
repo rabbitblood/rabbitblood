@@ -83,5 +83,5 @@ developer.
 ---
 
 <p align="center">
- <img width="1000" src="https://github.com/rabbitblood/rabbitblood/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+ <img width="1000" src="https://github.com/rabbitblood/rabbitblood/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
