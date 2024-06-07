@@ -68,7 +68,7 @@ developer.
 ---
 
 <p align="center">
-  <img width="400" height="200" src="https://leetcard.jacoblin.cool/leetcode?theme=dark">
+  <img width="400" height="200" src="https://leetcard.jacoblin.cool/rabbitblood?theme=dark&font=Noto%20Sans%20Old%20Hungarian&ext=heatmap">
 </p>
 
 
